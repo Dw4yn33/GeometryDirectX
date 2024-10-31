@@ -1,0 +1,88 @@
+G:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.exe.config
+G:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.Properties.Resources.resources
+G:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.exe
+G:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.pdb
+G:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.exe
+G:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.pdb
+H:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.exe.config
+H:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.exe
+H:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.pdb
+H:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.exe
+H:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.pdb
+H:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.Properties.Resources.resources
+H:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+I:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.exe.config
+I:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.exe
+I:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.pdb
+I:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.exe
+I:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.pdb
+I:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.Properties.Resources.resources
+I:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+I:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.Properties.Resources.resources
+F:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.csproj.GenerateResource.cache
+F:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.csproj.CoreCompileInputs.cache
+F:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.exe
+F:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.pdb
+F:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.exe.config
+F:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.exe
+F:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.pdb
+F:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.Direct3D.dll
+F:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.dll
+F:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.xml
+F:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.Direct3D.xml
+F:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.csproj.CopyComplete
+F:\Projects\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.csprojAssemblyReference.cache
+F:\Projects\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.VisualC.dll
+C:\Users\Denis\source\repos\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.exe.config
+C:\Users\Denis\source\repos\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.exe
+C:\Users\Denis\source\repos\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.pdb
+C:\Users\Denis\source\repos\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Denis\source\repos\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Denis\source\repos\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.VisualC.dll
+C:\Users\Denis\source\repos\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Denis\source\repos\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Denis\source\repos\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.Properties.Resources.resources
+C:\Users\Denis\source\repos\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.csproj.CopyComplete
+C:\Users\Denis\source\repos\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.exe
+C:\Users\Denis\source\repos\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.pdb
+C:\Users\vova-\Downloads\Directx_net_4 (1)\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.exe.config
+C:\Users\vova-\Downloads\Directx_net_4 (1)\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.exe
+C:\Users\vova-\Downloads\Directx_net_4 (1)\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.pdb
+C:\Users\vova-\Downloads\Directx_net_4 (1)\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\vova-\Downloads\Directx_net_4 (1)\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.dll
+C:\Users\vova-\Downloads\Directx_net_4 (1)\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.VisualC.dll
+C:\Users\vova-\Downloads\Directx_net_4 (1)\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.xml
+C:\Users\vova-\Downloads\Directx_net_4 (1)\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\vova-\Downloads\Directx_net_4 (1)\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.csproj.AssemblyReference.cache
+C:\Users\vova-\Downloads\Directx_net_4 (1)\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.Properties.Resources.resources
+C:\Users\vova-\Downloads\Directx_net_4 (1)\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.csproj.GenerateResource.cache
+C:\Users\vova-\Downloads\Directx_net_4 (1)\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.csproj.CoreCompileInputs.cache
+C:\Users\vova-\Downloads\Directx_net_4 (1)\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_.DE1838DF.Up2Date
+C:\Users\vova-\Downloads\Directx_net_4 (1)\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.exe
+C:\Users\vova-\Downloads\Directx_net_4 (1)\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.pdb
+C:\Users\vova-\Downloads\practice-1\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.exe.config
+C:\Users\vova-\Downloads\practice-1\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.exe
+C:\Users\vova-\Downloads\practice-1\Directx_net_4\Directx_net_4\bin\Debug\Directx_net_4.pdb
+C:\Users\vova-\Downloads\practice-1\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\vova-\Downloads\practice-1\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.dll
+C:\Users\vova-\Downloads\practice-1\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.VisualC.dll
+C:\Users\vova-\Downloads\practice-1\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.xml
+C:\Users\vova-\Downloads\practice-1\Directx_net_4\Directx_net_4\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\vova-\Downloads\practice-1\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.csproj.AssemblyReference.cache
+C:\Users\vova-\Downloads\practice-1\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.Properties.Resources.resources
+C:\Users\vova-\Downloads\practice-1\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.csproj.GenerateResource.cache
+C:\Users\vova-\Downloads\practice-1\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.csproj.CoreCompileInputs.cache
+C:\Users\vova-\Downloads\practice-1\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_.DE1838DF.Up2Date
+C:\Users\vova-\Downloads\practice-1\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.exe
+C:\Users\vova-\Downloads\practice-1\Directx_net_4\Directx_net_4\obj\x86\Debug\Directx_net_4.pdb
